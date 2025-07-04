@@ -46,6 +46,8 @@ cd listadeexercicios1
 node ex1.js
 ```
 
+---
+
 ## 📚 Lista de Exercícios 1 - Estudando as estruturas básicas
 
 📌 Cada exercício está salvo em um arquivo separado (`ex1.js`, `ex2.js`, ...). Abaixo, veja o que cada um faz:
@@ -65,5 +67,3 @@ node ex1.js
 13. 🧮 **Média de Números**: Calcula a média de números até o usuário digitar zero.  
 14. ❗ **Fatorial**: Mostra o fatorial de um número informado.  
 15. 🔢 **Sequência de Fibonacci**: Lista os primeiros 10 termos da sequência de Fibonacci.
-
----
